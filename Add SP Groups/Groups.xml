@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Groups>
+    <Group name="IASK Content Management Team" description="">
+        <Users>
+            <User>SP\sp_admin</User>
+        </Users>
+    </Group>
+    <Group name="IASK Representatives" description="">
+        <Users>
+            <User>SP\sp_admin</User>
+        </Users>
+    </Group>
+    <Group name="IASK Content Review Experts" description="">
+        <Users>
+            <User>SP\sp_admin</User>
+        </Users>
+    </Group>
+    <Group name="IASK Content Review Team" description="">
+        <Users>
+            <User>SP\sp_admin</User>
+        </Users>
+    </Group>
+    <Group name="IASK Compliance Team" description="">
+        <Users>
+            <User>SP\sp_admin</User>
+        </Users>
+    </Group>
+    <Group name="IASK Content Rewiew Owners" description="">
+        <Users>
+            <User>SP\sp_admin</User>
+        </Users>
+    </Group>
+    <Group name="IASK Publishers" description="">
+        <Users>
+            <User>SP\sp_admin</User>
+        </Users>
+    </Group>
+</Groups>
